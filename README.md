@@ -40,7 +40,7 @@ Responsive UI	Optimized for devices of all sizes, with dynamic font and button s
 
 Desktop View
 
-![desktop-view](./screenshots/desktop-view.jpg)
+![desktop-view](./screenshots/desktop-view.jpeg)
 
 Mobile View
 
